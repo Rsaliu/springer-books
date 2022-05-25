@@ -21,7 +21,7 @@
         "webextension-polyfill": "^0.6.0"
     },
     "dependencies": {
-        "bootstrap-table": "^1.16.0",
+        "bootstrap-table": "^1.20.2",
         "bootstrap-vue": "^2.13.0",
         "vue": "^2.6.11",
         "vue-resource": "^1.5.1"
